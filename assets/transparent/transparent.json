@@ -1,0 +1,7 @@
+{
+    "entities": {
+        "painting": true,
+
+        "itemframe": false
+    }
+}
