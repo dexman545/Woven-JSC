@@ -1,0 +1,15 @@
+{
+  "layers": [
+    {
+      "textures": {
+        "top": "minecraft:block/crimson_nylium",
+        "side": "minecraft:block/crimson_nylium_side",
+        "overrides": {
+          "blend_up": "lambdabettergrass:override/crimson_nylium_bend_m",
+          "blend_up_m": "lambdabettergrass:override/crimson_nylium_bend",
+          "arch": "lambdabettergrass:override/crimson_nylium_arch"
+        }
+      }
+    }
+  ]
+}

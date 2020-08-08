@@ -1,0 +1,15 @@
+{
+  "layers": [
+    {
+      "textures": {
+        "top": "minecraft:block/grass_path_top",
+        "side": "minecraft:block/grass_path_side",
+        "overrides": {
+          "blend_up": "lambdabettergrass:override/grass_path_side_bend_m",
+          "blend_up_m": "lambdabettergrass:override/grass_path_side_bend",
+          "arch": "lambdabettergrass:override/grass_path_side_arch"
+        }
+      }
+    }
+  ]
+}

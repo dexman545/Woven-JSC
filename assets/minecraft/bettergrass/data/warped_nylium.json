@@ -1,0 +1,15 @@
+{
+  "layers": [
+    {
+      "textures": {
+        "top": "minecraft:block/warped_nylium",
+        "side": "minecraft:block/warped_nylium_side",
+        "overrides": {
+          "blend_up": "lambdabettergrass:override/warped_nylium_bend_m",
+          "blend_up_m": "lambdabettergrass:override/warped_nylium_bend",
+          "arch": "lambdabettergrass:override/warped_nylium_arch"
+        }
+      }
+    }
+  ]
+}

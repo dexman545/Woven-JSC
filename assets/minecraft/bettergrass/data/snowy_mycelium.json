@@ -1,0 +1,15 @@
+{
+  "layers": [
+    {
+      "textures": {
+        "top": "minecraft:block/snow",
+        "side": "lambdabettergrass:override/mycelium_snow",
+        "overrides": {
+          "blend_up": "lambdabettergrass:override/mycelium_snow_bend_m",
+          "blend_up_m": "lambdabettergrass:override/mycelium_snow_bend",
+          "arch": "lambdabettergrass:override/mycelium_snow_arch"
+        }
+      }
+    }
+  ]
+}

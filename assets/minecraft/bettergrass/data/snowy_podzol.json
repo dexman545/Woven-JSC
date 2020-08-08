@@ -1,0 +1,15 @@
+{
+  "layers": [
+    {
+      "textures": {
+        "top": "minecraft:block/snow",
+        "side": "minecraft:block/podzol_snow",
+        "overrides": {
+          "blend_up": "lambdabettergrass:override/podzol_snow_bend_m",
+          "blend_up_m": "lambdabettergrass:override/podzol_snow_bend",
+          "arch": "lambdabettergrass:override/podzol_snow_arch"
+        }
+      }
+    }
+  ]
+}
